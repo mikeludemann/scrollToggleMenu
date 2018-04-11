@@ -10,5 +10,6 @@ scrollToggleMenu(header, footer, styleTop, styleBottom, scrollPosition);
 
 With parameter
 scrollToggleMenu("header", "footer", "0px", "-50px", 10);
+scrollToggleMenu("header", "footer", "0px", "-50px", "");
 
 ```
