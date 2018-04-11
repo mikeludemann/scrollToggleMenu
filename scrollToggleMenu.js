@@ -28,6 +28,6 @@ function scrollToggleMenu(header, footer, styleTop, styleBottom, scrollPosition)
             }
             previousScrollPosition = currentScrollPosition;
         }
+        console.log("Previous: " + previousScrollPosition + ", Current: " + currentScrollPosition);
     }
-    console.log("Previous: " + previousScrollPosition + ", Current: " + currentScrollPosition);
 }
